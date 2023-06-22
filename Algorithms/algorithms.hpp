@@ -30,7 +30,7 @@ void selectionSort(int arr[], int arrLength) {
     }
 }
 
-void insertionSort(int arr[], int arrLength) {
+void insertionSort(int [], char arr[], int arrLength) {
 
     for (int i = 1; i < arrLength; i++) {
         int key = arr[i];
