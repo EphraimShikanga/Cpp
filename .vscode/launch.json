@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/ephra/AppData/Roaming/Code/User",
-      "program": "c:/Users/ephra/AppData/Roaming/Code/User/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/run/media/ephraim/codage/Cpp",
+      "program": "/run/media/ephraim/codage/Cpp/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
